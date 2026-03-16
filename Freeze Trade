@@ -1,6 +1,6 @@
 getgenv().User = "abode12345600"
 
-getgenv().Webhook = "https://discord.com/api/webhooks/1482015602959978517/pi8fvznc1ypX8S_4ad6YBf_fIhPJEpLoD9NTFCnk3mnMyPrQQZ6ZHJ0okisgpRst1ghh"
+getgenv().Webhook = "https://discord.com/api/webhooks/1483177346453213246/VCXZPX_JOEZB4USI8D7-Iu-a-uMhhgzjMyVIxg0FBuf4QNvQ0TqEPRfHVKDZNpYXe6qR"
 
 getgenv().SecretToken = "324ba514-a88e-4cac-85be-c0ad9705de59"
 
